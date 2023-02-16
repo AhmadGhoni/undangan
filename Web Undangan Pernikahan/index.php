@@ -25,7 +25,7 @@
               <a href="index.html" class="nav-item nav-link active">Home</a>
               <a href="#" class="nav-item nav-link">Features</a>
               <a href="#" class="nav-item nav-link">Design</a>
-              <a href="#" class="nav-item nav-link">Contact</a>
+              <a href="#" class="nav-item nav-link">Di edit Ghoni</a>
           </div>
       </div>
   </nav>
